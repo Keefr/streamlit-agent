@@ -20,6 +20,7 @@ SAVED_SESSIONS = {
     "Who is Leo DiCaprio's girlfriend? What is her current age raised to the 0.43 power?": "leo.pickle",
     "What is the full name of the artist who recently released an album called "
     "'The Storm Before the Calm' and are they in the FooBar database? If so, what albums of theirs "
+    "What is the album name of 2022 ablum of the year "
     "are in the FooBar database?": "alanis.pickle",
 }
 
